@@ -1,0 +1,4 @@
+INFO     app_sections.BasePage:BasePage.py:37 Clicking on an Element access_location_accept_XPATH
+INFO     app_sections.BasePage:BasePage.py:53 Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : davetechc123@yopmail.com
+INFO     app_sections.BasePage:BasePage.py:53 Typing in an Element login_passfield_XPATH entered the value as : password
+INFO     app_sections.BasePage:BasePage.py:37 Clicking on an Element login_loginBTN_XPATH
