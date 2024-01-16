@@ -22,9 +22,9 @@ def appium_driver(request):
         deviceName='Android',
         platformName='Android',
         automationName='UiAutomator2',
-        appPackage='com.managelife_fsa',
-        appActivity='com.managelife_fsa.MainActivity',
-        # noReset=True
+        appPackage='com.travelbes',
+        appActivity='com.travelbes.MainActivity',
+        noReset=True
 
     )
 
