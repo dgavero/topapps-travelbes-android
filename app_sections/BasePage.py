@@ -10,6 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from app_utilities.LogUtil import Logger
 from app_utilities import configReader
 
+
 log = Logger(__name__, logging.INFO)
 
 
